@@ -231,11 +231,6 @@ Yes. That is what I recommend for a team setup.
 
 ---
 
-## Credits and contact
-
-Built and documented by [Indish Marketer](https://indishmarketer.com).
-
-If you build something with this, I would like to see it.
 
 ## License
 
