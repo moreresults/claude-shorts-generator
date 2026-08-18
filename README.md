@@ -1,4 +1,4 @@
-# Claude + n8n + HeyGen YouTube Automation
+# Claude + n8n + HeyGen Short-Form Video Generator
 
 Send a topic to a Telegram bot. Get a finished YouTube video uploaded to your channel. No editing, no recording, no manual steps in between.
 
